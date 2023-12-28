@@ -1,0 +1,5 @@
+export { default as StudentAverageView} from './StudentAverageView.vue'
+export { default as SubjectAverageView} from './SubjectAverageView.vue'
+export { default as StudentView } from './StudentView.vue'
+export { default as SubjectView } from './SubjectView.vue'
+export { default as EditView } from './EditView.vue'

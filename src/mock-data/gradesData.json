@@ -1,0 +1,110 @@
+{
+  "Alex": {
+    "math": 70,
+    "history": 80,
+    "english": 0,
+    "physics": 0,
+    "geography": 90,
+    "chemistry": 30,
+    "biology": 55
+  },
+  "Michael": {
+    "math": 0,
+    "history": 95,
+    "english": 87,
+    "physics": 45,
+    "geography": 0,
+    "chemistry": 0,
+    "biology": 90
+  },
+  "John": {
+    "math": 50,
+    "history": 65,
+    "english": 0,
+    "physics": 85,
+    "geography": 0,
+    "chemistry": 78,
+    "biology": 92
+  },
+  "Oliver": {
+    "math": 67,
+    "history": 83,
+    "english": 67,
+    "physics": 0,
+    "geography": 0,
+    "chemistry": 56,
+    "biology": 89
+  },
+  "Alice": {
+    "math": 77,
+    "history": 0,
+    "english": 65,
+    "physics": 83,
+    "geography": 76,
+    "chemistry": 88,
+    "biology": 0
+  },
+  "Ashley": {
+    "math": 0,
+    "history": 98,
+    "english": 100,
+    "physics": 0,
+    "geography": 93,
+    "chemistry": 75,
+    "biology": 68
+  },
+  "Max": {
+    "math": 55,
+    "history": 75,
+    "english": 54,
+    "physics": 63,
+    "geography": 78,
+    "chemistry": 90,
+    "biology": 72
+  },
+  "Jenny": {
+    "math": 83,
+    "history": 0,
+    "english": 72,
+    "physics": 0,
+    "geography": 67,
+    "chemistry": 0,
+    "biology": 86
+  },
+  "Grace": {
+    "math": 0,
+    "history": 78,
+    "english": 59,
+    "physics": 71,
+    "geography": 0,
+    "chemistry": 63,
+    "biology": 85
+  },
+  "Jason": {
+    "math": 62,
+    "history": 0,
+    "english": 69,
+    "physics": 84,
+    "geography": 66,
+    "chemistry": 0,
+    "biology": 0
+  },
+  "Samantha": {
+    "math": 0,
+    "history": 92,
+    "english": 94,
+    "physics": 82,
+    "geography": 88,
+    "chemistry": 74,
+    "biology": 0
+  },
+  "Julia": {
+    "math": 73,
+    "history": 86,
+    "english": 0,
+    "physics": 0,
+    "geography": 97,
+    "chemistry": 89,
+    "biology": 100
+  }
+}
