@@ -32,7 +32,7 @@ export const updateGrades = async (param: StudentGradesData): Promise<StudentGra
         return response.json()
       })
       .then((data) => {
-        console.log(data) // Assuming the server responds with a message
+        console.log(data)
       })
       .catch((error) => {
         console.error('Fetch error:', error)
